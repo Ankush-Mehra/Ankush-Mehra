@@ -1,34 +1,87 @@
+<div align="center">
+
+<img src="https://github.com/Ankush-Mehra/Ankush-Mehra/blob/main/banner.gif" alt="banner" width="100%">
+
 # Hi, I'm Ankush Mehra 👋  
-
 🚗 **Perception Engineer | Sensor Fusion | 3D Computer Vision | Autonomous Driving**  
-
-I’m passionate about building **perception systems** that enable self-driving cars to see, understand, and navigate the world.  
-My focus is on **multi-sensor fusion, deep learning, and 3D perception** for autonomous driving.  
 
 ---
 
 ## 🔭 Current Focus
-- **Sensor Fusion** – Integrating LiDAR, Camera, and RADAR for robust perception  
-- **3D Perception** – Depth estimation, 3D object detection & tracking  
-- **Scene Understanding** – Semantic segmentation & lane detection  
-- **Autonomous Driving Systems** – Using ROS, CARLA, Apollo, Autoware for experiments  
+**Early Fusion – LiDAR + Camera**  
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects  
 
-🚘 **End-to-End Perception Pipeline** – Camera + LiDAR fusion for 3D object detection  
-[![Watch the demo](https://img.youtube.com/vi/PLACEHOLDER_ID/0.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER_ID)  
-
-🛰 **Stereo Vision for Depth** – Classical + DL approaches to disparity & depth estimation  
-[![Watch the demo](https://img.youtube.com/vi/PLACEHOLDER_ID/0.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER_ID)  
-
-🧠 **KITTI & nuScenes Exploration** – 3D detection and tracking benchmarks  
-⚡ **Real-Time Object Detection** – Optimized CNNs for real-time inference on edge devices  
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>Point Cloud Processing Pipeline</b>  
+      <br>
+      <a href="https://youtu.be/psdFdAGqNFs" target="_blank">
+        <img src="https://img.youtube.com/vi/psdFdAGqNFs/0.jpg" alt="Watch the demo" width="100%">
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <b>Adding Soon 🚀</b>  
+      <br>
+      <img src="https://via.placeholder.com/320x180.png?text=Coming+Soon" width="100%">
+    </td>
+    <td align="center" width="33%">
+      <b>Adding Soon 🚀</b>  
+      <br>
+      <img src="https://via.placeholder.com/320x180.png?text=Coming+Soon" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠 Skills & Tools  
+## 🛠 Tech Stack  
 
 ### Languages  
-![Python](ht)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)  
+![CUDA](https://img.shields.io/badge/-CUDA-76B900?logo=nvidia&logoColor=white&style=flat)  
+
+### Deep Learning  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)  
+
+### Computer Vision & 3D  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)  
+![MMDetection3D](https://img.shields.io/badge/-MMDetection3D-00599C?style=flat)  
+![Detectron2](https://img.shields.io/badge/-Detectron2-2496ED?style=flat)  
+
+### Simulation & AV Stacks  
+![ROS](https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white&style=flat)  
+![CARLA](https://img.shields.io/badge/-CARLA-FF6F00?style=flat)  
+![Apollo](https://img.shields.io/badge/-Apollo-0E4D92?style=flat)  
+![Autoware](https://img.shields.io/badge/-Autoware-5C2D91?style=flat)  
+
+### Tools  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
+
+---
+
+## 📊 GitHub Stats  
+![Ankush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankush-Mehra&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-Mehra&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Reach Me  
+🌐 [Portfolio](https://preview--ankush-mehra-portfolio.lovable.app/)  
+💼 [LinkedIn](https://www.linkedin.com/in/ankush-mehra-770772223/)  
+📧 **ankmehra92@gmail.com**  
+
+---
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ankush-Mehra.Ankush-Mehra)  
+
+⭐️ *Always open to collaborations in sensor fusion, 3D vision, and autonomous driving perception!*  
+
+</div>
