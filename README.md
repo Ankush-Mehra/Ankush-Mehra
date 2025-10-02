@@ -41,21 +41,39 @@
 
 ## 🛠 Tech Stack  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)  
-![CUDA](https://img.shields.io/badge/-CUDA-76B900?logo=nvidia&logoColor=white&style=flat)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)  
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)  
-![MMDetection3D](https://img.shields.io/badge/-MMDetection3D-00599C?style=flat)  
-![Detectron2](https://img.shields.io/badge/-Detectron2-2496ED?style=flat)  
-![ROS](https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white&style=flat)  
-![CARLA](https://img.shields.io/badge/-CARLA-FF6F00?style=flat)  
-![Apollo](https://img.shields.io/badge/-Apollo-0E4D92?style=flat)  
-![Autoware](https://img.shields.io/badge/-Autoware-5C2D91?style=flat)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
+### 👁️ Perception  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-CUDA-76B900?logo=nvidia&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-MMDetection3D-00599C?style=flat">
+  <img src="https://img.shields.io/badge/-Detectron2-2496ED?style=flat">
+</p>
+
+### 📍 Localization  
+<p align="center">
+  <img src="https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-CARLA-FF6F00?style=flat">
+  <img src="https://img.shields.io/badge/-Apollo-0E4D92?style=flat">
+  <img src="https://img.shields.io/badge/-Autoware-5C2D91?style=flat">
+</p>
+
+### 🧭 Planning & Control  
+<p align="center">
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white&style=flat">
+</p>
+
+### 🛠 Tools & Infrastructure  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat">
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">
+</p>
 
 ---
 
