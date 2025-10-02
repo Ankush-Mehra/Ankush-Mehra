@@ -8,8 +8,10 @@
 <img src="https://github.com/Ankush-Mehra/Ankush-Mehra/blob/main/banner.gif" alt="banner" width="100%">
 
 # Hi, I'm Ankush Mehra 👋  
-🚗 **PERCEPTION ENGINEER | SENSOR FUSION | 3D COMPUTER VISION | AUTONOMOUS DRIVING**  
-<p style="max-width: 700px;">I build robust perception pipelines for autonomous vehicles, specializing in sensor fusion, 3D vision, and real-time object detection & tracking.</p>
+🚗 **Autonomous Driving Perception Engineer | SOTA Techniques | Sensor Fusion & 3D Vision**  
+I build robust perception pipelines for autonomous vehicles, specializing in real-time 3D vision, object detection, and tracking.  
+
+Check out my work here: [Portfolio](https://preview--ankush-mehra-portfolio.lovable.app/)
 
 ---
 
@@ -111,7 +113,6 @@
 
 ## 📫 Reach Me  
 <p align="center">
-  🌐 <a href="https://preview--ankush-mehra-portfolio.lovable.app/">Portfolio</a> &nbsp;&nbsp;
   💼 <a href="https://www.linkedin.com/in/ankush-mehra-770772223/">LinkedIn</a> &nbsp;&nbsp;
   📧 <a href="mailto:ankmehra92@gmail.com">Email Me</a>
 </p>
