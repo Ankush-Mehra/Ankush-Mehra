@@ -17,22 +17,51 @@
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <b>Point Cloud Processing Pipeline</b>  
       <br>
       <a href="https://youtu.be/psdFdAGqNFs" target="_blank">
         <img src="https://img.youtube.com/vi/psdFdAGqNFs/0.jpg" alt="Watch the demo" width="100%">
       </a>
     </td>
-    <td align="center" width="33%">
-      <b>Coming Soon 🚀</b>  
+    <td align="center" width="50%">
+      <b>Image Segmentation - UNet</b>  
       <br>
-      <img src="https://via.placeholder.com/320x180.png?text=Project+Coming+Soon" width="100%">
+      <a href="https://youtu.be/7SyZ1S7KBdg" target="_blank">
+        <img src="https://img.youtube.com/vi/7SyZ1S7KBdg/0.jpg" alt="Watch the demo" width="100%">
+      </a>
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>Multiple Object Tracking - SORT</b>  
+      <br>
+      <a href="https://youtu.be/1X6dvWDqAvE" target="_blank">
+        <img src="https://img.youtube.com/vi/1X6dvWDqAvE/0.jpg" alt="Watch the demo" width="100%">
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <b>Object Detection - YOLOv5</b>  
+      <br>
+      <a href="https://youtu.be/o_JK_asLpbQ" target="_blank">
+        <img src="https://img.youtube.com/vi/o_JK_asLpbQ/0.jpg" alt="Watch the demo" width="100%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <b>Coming Soon 🚀</b>  
       <br>
-      <img src="https://via.placeholder.com/320x180.png?text=Project+Coming+Soon" width="100%">
+      <a href="https://youtu.be/EVc6PvVERHc" target="_blank">
+        <img src="https://img.youtube.com/vi/EVc6PvVERHc/0.jpg" width="100%">
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <b>Coming Soon 🚀</b>  
+      <br>
+      <a href="https://youtu.be/EVc6PvVERHc" target="_blank">
+        <img src="https://img.youtube.com/vi/EVc6PvVERHc/0.jpg" width="100%">
+      </a>
     </td>
   </tr>
 </table>
@@ -78,9 +107,11 @@
 ---
 
 ## 📫 Reach Me  
-🌐 [Portfolio](https://preview--ankush-mehra-portfolio.lovable.app/)  
-💼 [LinkedIn](https://www.linkedin.com/in/ankush-mehra-770772223/)  
-📧 **ankmehra92@gmail.com**  
+<p align="center">
+  🌐 <a href="https://preview--ankush-mehra-portfolio.lovable.app/">Portfolio</a> &nbsp;&nbsp;
+  💼 <a href="https://www.linkedin.com/in/ankush-mehra-770772223/">LinkedIn</a> &nbsp;&nbsp;
+  📧 ankmehra92@gmail.com
+</p>
 
 ---
 
