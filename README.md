@@ -8,12 +8,12 @@
 <img src="https://github.com/Ankush-Mehra/Ankush-Mehra/blob/main/banner.gif" alt="banner" width="100%">
 
 # Hi, I'm Ankush Mehra 👋  
-🚗 **Perception Engineer | Sensor Fusion | 3D Computer Vision | Autonomous Driving**  
+🚗 **PERCEPTION ENGINEER | SENSOR FUSION | 3D COMPUTER VISION | AUTONOMOUS DRIVING**  
 <p style="max-width: 700px;">I build robust perception pipelines for autonomous vehicles, specializing in sensor fusion, 3D vision, and real-time object detection & tracking.</p>
 
 ---
 
-## 🔭 Current Focus
+## 🔭 Currently Working On
 **Early Fusion – LiDAR + Camera**  
 
 ---
@@ -23,50 +23,48 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <b>Point Cloud Processing Pipeline</b>  
+    <td align="center" width="33%">
+      <b>POINT CLOUD PROCESSING PIPELINE</b>  
       <br>
       <a href="https://youtu.be/psdFdAGqNFs" target="_blank">
-        <img src="https://img.youtube.com/vi/psdFdAGqNFs/0.jpg" alt="Watch the demo" width="100%" style="border-radius:12px;">
+        <img src="https://img.youtube.com/vi/psdFdAGqNFs/0.jpg" alt="Watch the demo" width="100%" style="border-radius:20px;">
       </a>
     </td>
-    <td align="center" width="50%">
-      <b>𝐒𝐞𝐦𝐚𝐧𝐭𝐢𝐜 𝐒𝐞𝐠𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 Using 𝐔𝐍𝐞𝐭 Architecture</b>  
+    <td align="center" width="33%">
+      <b>SEMANTIC SEGMENTATION USING UNET ARCHITECTURE</b>  
       <br>
       <a href="https://youtu.be/7SyZ1S7KBdg" target="_blank">
-        <img src="https://img.youtube.com/vi/7SyZ1S7KBdg/0.jpg" alt="Watch the demo" width="100%" style="border-radius:12px;">
+        <img src="https://img.youtube.com/vi/7SyZ1S7KBdg/0.jpg" alt="Watch the demo" width="100%" style="border-radius:20px;">
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <b>Object Tracking Using SORT Algorithm</b>  
+    <td align="center" width="33%">
+      <b>OBJECT TRACKING USING SORT ALGORITHM</b>  
       <br>
       <a href="https://youtu.be/1X6dvWDqAvE" target="_blank">
-        <img src="https://img.youtube.com/vi/1X6dvWDqAvE/0.jpg" alt="Watch the demo" width="100%" style="border-radius:12px;">
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <b>Hungarian Algorithm For Box Association</b>  
-      <br>
-      <a href="https://youtu.be/o_JK_asLpbQ" target="_blank">
-        <img src="https://img.youtube.com/vi/o_JK_asLpbQ/0.jpg" alt="Watch the demo" width="100%" style="border-radius:12px;">
+        <img src="https://img.youtube.com/vi/1X6dvWDqAvE/0.jpg" alt="Watch the demo" width="100%" style="border-radius:20px;">
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <b>Coming Soon 🚀</b>  
+    <td align="center" width="33%">
+      <b>HUNGARIAN ALGORITHM FOR BOX ASSOCIATION</b>  
       <br>
-      <a href="https://youtu.be/EVc6PvVERHc" target="_blank">
-        <img src="https://img.youtube.com/vi/EVc6PvVERHc/0.jpg" width="100%" style="border-radius:12px;">
+      <a href="https://youtu.be/o_JK_asLpbQ" target="_blank">
+        <img src="https://img.youtube.com/vi/o_JK_asLpbQ/0.jpg" alt="Watch the demo" width="100%" style="border-radius:20px;">
       </a>
     </td>
-    <td align="center" width="50%">
-      <b>Coming Soon 🚀</b>  
+    <td align="center" width="33%">
+      <b>COMING SOON 🚀</b>  
       <br>
       <a href="https://youtu.be/EVc6PvVERHc" target="_blank">
-        <img src="https://img.youtube.com/vi/EVc6PvVERHc/0.jpg" width="100%" style="border-radius:12px;">
+        <img src="https://img.youtube.com/vi/EVc6PvVERHc/0.jpg" width="100%" style="border-radius:20px;">
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <b>COMING SOON 🚀</b>  
+      <br>
+      <a href="https://youtu.be/EVc6PvVERHc" target="_blank">
+        <img src="https://img.youtube.com/vi/EVc6PvVERHc/0.jpg" width="100%" style="border-radius:20px;">
       </a>
     </td>
   </tr>
@@ -116,7 +114,7 @@
 <p align="center">
   🌐 <a href="https://preview--ankush-mehra-portfolio.lovable.app/">Portfolio</a> &nbsp;&nbsp;
   💼 <a href="https://www.linkedin.com/in/ankush-mehra-770772223/">LinkedIn</a> &nbsp;&nbsp;
-  📧 *Feel free to email me for collaborations*
+  📧 <a href="mailto:ankmehra92@gmail.com">Email Me</a>
 </p>
 
 ⭐️ *Always open to collaborations in sensor fusion, 3D vision, and autonomous driving perception!*  
