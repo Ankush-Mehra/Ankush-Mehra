@@ -11,7 +11,7 @@
 🚗 **Autonomous Driving Perception Engineer | SOTA Techniques | Sensor Fusion & 3D Vision**  
 I build robust perception pipelines for autonomous vehicles, specializing in real-time 3D vision, object detection, and tracking.  
 
-Check out my work here: [Portfolio](https://preview--ankush-mehra-portfolio.lovable.app/)
+Check out my work here: [Portfolio](https://preview--ankush-mehra-portfolio.lovable.app/)  
 
 ---
 
@@ -113,8 +113,8 @@ Check out my work here: [Portfolio](https://preview--ankush-mehra-portfolio.lova
 
 ## 📫 Reach Me  
 <p align="center">
-  💼 <a href="https://www.linkedin.com/in/ankush-mehra-770772223/">LinkedIn</a> &nbsp;&nbsp;
-  📧 <a href="mailto:ankmehra92@gmail.com">Email Me</a>
+  💼 <a href="https://www.linkedin.com/in/ankush-mehra-770772223/" target="_blank">LinkedIn</a> &nbsp;&nbsp;
+  📧 <a href="mailto:ankmehra92@gmail.com" target="_blank">Email Me</a>
 </p>
 
 ⭐️ *Always open to collaborations in sensor fusion, 3D vision, and autonomous driving perception!*  
