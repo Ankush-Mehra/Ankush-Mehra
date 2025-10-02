@@ -1,25 +1,6 @@
-<div align="center">
-
-<!-- Visitor Badge Top Right -->
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ankush-Mehra.Ankush-Mehra" alt="visitors">
-</p>
-
-<img src="https://github.com/Ankush-Mehra/Ankush-Mehra/blob/main/banner.gif" alt="banner" width="100%">
-
-# Hi, I'm Ankush Mehra 👋  
-🚗 **PERCEPTION ENGINEER | SENSOR FUSION | 3D COMPUTER VISION | AUTONOMOUS DRIVING**  
-<p style="max-width: 700px;">I build robust perception pipelines for autonomous vehicles, specializing in sensor fusion, 3D vision, and real-time object detection & tracking.</p>
-
 ---
 
-## 🔭 Currently Working On
-**Early Fusion – LiDAR + Camera**  
-
----
-
-## 📂 Featured Projects  
-*(Tap on thumbnails to watch demo)*  
+## 📂 Featured Projects <span style="font-size:0.8em; color:gray;">(Tap on thumbnails to watch demo)</span>  
 
 <table>
   <tr>
@@ -45,78 +26,5 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="33%">
-      <b>HUNGARIAN ALGORITHM FOR BOX ASSOCIATION</b>  
-      <br>
-      <a href="https://youtu.be/o_JK_asLpbQ" target="_blank">
-        <img src="https://img.youtube.com/vi/o_JK_asLpbQ/0.jpg" alt="Watch the demo" width="100%" style="border-radius:20px;">
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <b>COMING SOON 🚀</b>  
-      <br>
-      <a href="https://youtu.be/EVc6PvVERHc" target="_blank">
-        <img src="https://img.youtube.com/vi/EVc6PvVERHc/0.jpg" width="100%" style="border-radius:20px;">
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <b>COMING SOON 🚀</b>  
-      <br>
-      <a href="https://youtu.be/EVc6PvVERHc" target="_blank">
-        <img src="https://img.youtube.com/vi/EVc6PvVERHc/0.jpg" width="100%" style="border-radius:20px;">
-      </a>
-    </td>
-  </tr>
+  ...
 </table>
-
----
-
-## 🛠 Tech Stack  
-
-### 👁️ Perception  
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/-CUDA-76B900?logo=nvidia&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/-MMDetection3D-00599C?style=flat">
-  <img src="https://img.shields.io/badge/-Detectron2-2496ED?style=flat">
-</p>
-
-### 📍 Localization  
-<p align="center">
-  <img src="https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/-CARLA-FF6F00?style=flat">
-  <img src="https://img.shields.io/badge/-Apollo-0E4D92?style=flat">
-  <img src="https://img.shields.io/badge/-Autoware-5C2D91?style=flat">
-</p>
-
-### 🧭 Planning & Control  
-<p align="center">
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white&style=flat">
-</p>
-
-### 🛠 Tools & Infrastructure  
-<p align="center">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat">
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">
-</p>
-
----
-
-## 📫 Reach Me  
-<p align="center">
-  🌐 <a href="https://preview--ankush-mehra-portfolio.lovable.app/">Portfolio</a> &nbsp;&nbsp;
-  💼 <a href="https://www.linkedin.com/in/ankush-mehra-770772223/">LinkedIn</a> &nbsp;&nbsp;
-  📧 <a href="mailto:ankmehra92@gmail.com">Email Me</a>
-</p>
-
-⭐️ *Always open to collaborations in sensor fusion, 3D vision, and autonomous driving perception!*  
-
-</div>
