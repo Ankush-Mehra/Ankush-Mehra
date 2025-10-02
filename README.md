@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Ankush Mehra 👋  
 
-<!--
-**Ankush-Mehra/Ankush-Mehra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚗 **Perception Engineer | Sensor Fusion | 3D Computer Vision | Autonomous Driving**  
 
-Here are some ideas to get you started:
+I’m passionate about building **perception systems** that enable self-driving cars to see, understand, and navigate the world.  
+My focus is on **multi-sensor fusion, deep learning, and 3D perception** for autonomous driving.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 Current Focus
+- **Sensor Fusion** – Integrating LiDAR, Camera, and RADAR for robust perception  
+- **3D Perception** – Depth estimation, 3D object detection & tracking  
+- **Scene Understanding** – Semantic segmentation & lane detection  
+- **Autonomous Driving Systems** – Using ROS, CARLA, Apollo, Autoware for experiments  
+
+---
+
+## 📂 Featured Projects
+
+🚘 **End-to-End Perception Pipeline** – Camera + LiDAR fusion for 3D object detection  
+[![Watch the demo](https://img.youtube.com/vi/PLACEHOLDER_ID/0.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER_ID)  
+
+🛰 **Stereo Vision for Depth** – Classical + DL approaches to disparity & depth estimation  
+[![Watch the demo](https://img.youtube.com/vi/PLACEHOLDER_ID/0.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER_ID)  
+
+🧠 **KITTI & nuScenes Exploration** – 3D detection and tracking benchmarks  
+⚡ **Real-Time Object Detection** – Optimized CNNs for real-time inference on edge devices  
+
+---
+
+## 🛠 Skills & Tools  
+
+### Languages  
+![Python](ht)
