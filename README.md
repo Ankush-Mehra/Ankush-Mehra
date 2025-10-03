@@ -20,7 +20,7 @@ Check out my work here: [Portfolio](https://preview--ankush-mehra-portfolio.lova
 
 ---
 
-## 📂 Featured Projects <span style="font-size:0.8em; color:gray;">(Tap on thumbnails to watch demo)</span>  
+## 📂 Featured Projects <span style="font-size:0.8em; color:gray;">(Tap thumbnail for video)</span>  
 
 <table>
   <tr>
